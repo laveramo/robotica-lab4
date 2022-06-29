@@ -7,6 +7,10 @@ Para diseñar el porta-marcador se tuvo en cuenta que la superficie en dónde se
 
 A continuación, se muestran imágenes de la herramienta final utilizada:
 
+![image.png](herramienta.jpg)
+![image.png](herramienta2.jpg)
+![image.png](herramienta3.jpg)
+
 Luego de tener la herramienta construida, se procedió a hacer la calibración con el robot de forma que se pudiera obtener el marco de referencia de la herramienta. Para ello, se tomaron 3 puntos donde el marcador terminaba en la misma ubicación pero con diferente orientación y un punto donde el marcador quedaba totalmente vertical. Después de obtener este marco, se exportó el módulo de RAPID que contenía la información de la herramienta y posteriormente se usó para definir todas las trayectorias.
 
 ## Código en RAPID
