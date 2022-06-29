@@ -19,9 +19,10 @@ El proceso L, es similar al anterior, en este caso sólo se usan instrucciones `
 Los puntos mencionados al inicio de esta sección fueron elaborados respecto al marco de referencia `prueba1`, a excepción del Home. De esta forma, para realizar la escritura de letras en el plano inclinado, simplemente se trasladó el origen del marco de referencia y se rotó según lo requerido para después repetir la ejecución del código.
 
 ## Simulación en Robotstudio e implementación con robot real
-Vídeo simulación en plano horizontal: https://youtu.be/Cg0UH6rbOm4
-Vídeo simulación en plano inclinado: https://youtu.be/5HbZhp8kT0o
-Vídeo implementación con robot real en plano horizontal: https://youtube.com/shorts/l6t0SUBW8Cg?feature=share
-Vídeo implementación con robot real en plano inclinado: https://youtube.com/shorts/0pYmCRa-8GM?feature=share
+- Vídeo simulación en plano horizontal: https://youtu.be/Cg0UH6rbOm4
+- Vídeo simulación en plano inclinado: https://youtu.be/5HbZhp8kT0o
+- Vídeo implementación con robot real en plano horizontal: https://youtube.com/shorts/l6t0SUBW8Cg?feature=share
+- Vídeo implementación con robot real en plano inclinado: https://youtube.com/shorts/0pYmCRa-8GM?feature=share
 
 # Conclusiones
+- Es importante hacer un uso útil de los workobjects en Robotstudio. En el caso de este laboratorio, al tener trayectorias elaboradas en un workobject distinto al del robot, fue sencillo hacer cambios en este al tener un plano superior al que inicialmente habíamos supuesto.
